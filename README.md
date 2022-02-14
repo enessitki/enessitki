@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<a href="https://github.com/Pepyn0/github-readme-stats">
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
-</a>
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=enessitki&show_icons=true&theme=radical)
+
 <a href="https://github.com/Pepyn0/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enessitki&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
