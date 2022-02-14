@@ -23,5 +23,5 @@
 </a>
 
 <div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/enessitki/enessitki/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
