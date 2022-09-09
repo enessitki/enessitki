@@ -14,7 +14,8 @@
 <br>
 <br>
 <br>
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3> 
+<p align="left">
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 <p align="left">
 <br>
 <a href="https://www.linkedin.com/in/enessitki/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
