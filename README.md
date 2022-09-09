@@ -15,7 +15,7 @@
 <br>
 <br>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-<p align="left">
+<p align="center">
 <br>
 <a href="https://www.linkedin.com/in/enessitki/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:enessitkii@gmail.com?subject=Hello%20Enes"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
